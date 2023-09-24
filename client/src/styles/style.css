@@ -1,0 +1,231 @@
+/*Galley.js*/
+.menuGallery{
+    display: flex;
+    width: 100vw;
+    overflow: hidden;    
+    position: relative;
+}
+
+.slider{
+    display:flex;
+    transform: translate(-25vw);
+    transition: transform 1.5s;
+}
+
+.itemImg {
+    flex-shrink: 0;     
+    position: relative;
+}
+
+.itemImg > img {
+    width: 50vw;
+    aspect-ratio: 1.45 / 1;  
+    object-fit: cover;
+    filter: brightness(75%)
+}
+
+.itemImg > div{
+    position: absolute;
+    width: 100%;
+    left:0;
+    right:0;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.prev, .next{
+    width: 25vw;
+    height: 100%;
+    aspect-ratio: 1.45 / 2;  
+}
+
+/*OperationInfo.js*/
+.info::before{
+    content: '';
+    position: absolute;
+    background-color: #b81101;
+
+    height: 0.0825rem;
+    width: 70px;
+    top: 52%;
+
+    left: -75px;
+}
+
+.info::after{
+    content: '';
+    position: absolute;
+    background-color: #b81101;
+
+    height: 0.0825rem;
+    width: 70px;
+    top: 52%;
+
+    right: -75px;
+}
+
+/*Header.js*/
+.nav-item{
+    position: relative;
+}
+
+.nav-item::before{
+    content: '';
+    width: 0px;
+    height: 4px;
+    border-radius: 1rem;
+    position: absolute;
+    background: #ffc665;
+    left: 50%;   
+    transform: translateX(-50%);  
+
+    transition: width .3s;
+    bottom: -5px;
+}
+
+.nav-item:hover::before{
+    width: 70%;
+}
+
+/*Content.js and other animations*/
+
+.fadeIn-1{
+    animation: fadeIn 2.5s ease;
+    
+}
+
+.fadeIn-2{
+    animation: fadeIn 2s ease;
+    
+}
+
+.fadeIn-3{
+    animation: fadeIn-3 3s ease;
+    
+}
+
+.opacity-fade{
+    animation: opacityFade 4s ease;
+}
+
+@keyframes fadeIn {
+    0% {transform: translateY(50px); opacity: 0;}
+    100% {transform: translateY(0px); opacity: 100;}
+}
+
+@keyframes fadeIn-3 {
+    0% {transform: translateY(50px); opacity: 0;}
+    25% {transform: translateY(50px); opacity: 0;}
+    35% { opacity: 0;}
+    100% {transform: translateY(0px); opacity: 100;}
+}
+
+@keyframes opacityFade {
+    0% {opacity: 0;}
+    25% {opacity: 0;}
+    100% {opacity: 100;}
+}
+
+#Nav_ID{
+    animation: slideIn 1.2s ease;
+}
+
+@keyframes slideIn {
+    0% {transform: translateX(400px);}
+    100% {transform: translateX(0px);}
+}
+
+@keyframes slideOut {
+    0% {transform: translateX(0px);}
+    100% {transform: translateX(400px);}
+}
+
+/*assets/FadeInSection.js*/
+.fade-in-section {
+    opacity: 0;
+    transform: translateY(50px);
+    visibility: hidden;
+    transition: opacity 3s ease, transform 1.5s ease;
+    will-change: opacity, visibility;
+}
+.fade-in-section.is-visible {
+    opacity: 1;
+    transform: none;
+    visibility: visible;
+}
+  
+/*Menu.js*/
+.food-name{
+    position: relative;
+}
+
+.food-name::after {
+    content: '';
+    margin-left: 10px;
+    left: 100%;
+    top: 12px;
+    height: 5px;
+    width: calc(34vw - (100% + 60px));
+    position: absolute;
+    border-top: solid 0.09rem #ffc665;
+    border-bottom: solid 0.09rem #ffc665;
+}
+
+/*------------*/
+
+.food-name.chef{
+    position: relative;
+}
+
+.food-name.chef::after {
+    content: '';
+    margin-left: 10px;
+    left: 100%;
+    top: 12px;
+    height: 5px;
+    width: calc(28vw - (100% + 70px));
+    position: absolute;
+    border-top: solid 0.09rem #ffc665;
+    border-bottom: solid 0.09rem #ffc665;
+}
+
+@media screen and (max-width: 1042px) {
+    .food-name::after{
+        width: calc(60vw - (100% + 60px));
+    }
+
+    .food-name.chef::after{
+        width: calc(45vw - (100% + 70px));
+    }
+}
+
+@media screen and (max-width: 639px) {
+    .food-name.chef::after{
+        width: calc(60vw - (100% + 70px));
+    }
+}
+
+/*Menu Options*/
+@keyframes expand {
+    0% {width: 0%;}    
+    100% {width: 80%;}
+}
+
+div.active{
+    position: relative;
+}
+div.active::after{
+    content: '';
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: -5px;
+    width: 80%;
+    border-radius: 1.825rem;
+    height: 0.15rem;
+    background-color: #b81101;
+
+    animation: expand 700ms ease;
+}
+

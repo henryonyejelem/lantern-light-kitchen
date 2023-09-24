@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="63.062" height="131.924" viewBox="0 0 63.062 131.924">
+  <g id="Lantern_Icon" data-name="Lantern Icon" transform="translate(-289.85 -6.53)">
+    <g id="Group_202" data-name="Group 202" transform="translate(291.35 6.53)">
+      <g id="Group_201" data-name="Group 201" transform="translate(0 16.677)">
+        <g id="Group_200" data-name="Group 200" transform="translate(0 7.306)">
+          <path id="Path_242" data-name="Path 242" d="M351.412,61.635a30.009,30.009,0,0,1-13.239,24.9H304.6a30.035,30.035,0,0,1,0-49.809h33.577A30.009,30.009,0,0,1,351.412,61.635Z" transform="translate(-291.35 -36.73)" fill="none" stroke="#f7c56b" stroke-miterlimit="10" stroke-width="3"/>
+          <path id="Path_243" data-name="Path 243" d="M344.207,61.635c0,10.364-3.55,19.5-8.95,24.9h-22.7c-5.4-5.4-8.95-14.541-8.95-24.9s3.55-19.5,8.95-24.9h22.7C340.657,42.13,344.207,51.271,344.207,61.635Z" transform="translate(-293.874 -36.73)" fill="none" stroke="#f7c56b" stroke-miterlimit="10" stroke-width="3"/>
+          <path id="Path_244" data-name="Path 244" d="M335.235,61.635c0,10.364-1.43,19.5-3.605,24.9h-9.165c-2.176-5.4-3.605-14.541-3.605-24.9s1.429-19.5,3.605-24.9h9.165C333.806,42.13,335.235,51.271,335.235,61.635Z" transform="translate(-297.013 -36.73)" fill="none" stroke="#f7c56b" stroke-miterlimit="10" stroke-width="3"/>
+        </g>
+        <rect id="Rectangle_58" data-name="Rectangle 58" width="33.577" height="7.314" transform="translate(13.246 57.116)" fill="none" stroke="#f7c56b" stroke-miterlimit="10" stroke-width="3"/>
+        <rect id="Rectangle_59" data-name="Rectangle 59" width="33.577" height="7.306" transform="translate(13.246)" fill="none" stroke="#f7c56b" stroke-miterlimit="10" stroke-width="3"/>
+      </g>
+      <line id="Line_40" data-name="Line 40" y2="25.222" transform="translate(30.035 81.099)" fill="none" stroke="#f7c56b" stroke-miterlimit="10" stroke-width="3"/>
+      <rect id="Rectangle_60" data-name="Rectangle 60" width="10.665" height="24.103" transform="translate(24.698 106.321)" fill="none" stroke="#f7c56b" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Line_41" data-name="Line 41" y1="16.677" transform="translate(30.035)" fill="none" stroke="#f7c56b" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+    <g id="Group_203" data-name="Group 203" transform="translate(306.788 87.637)">
+      <line id="Line_42" data-name="Line 42" y2="13.794" transform="translate(0)" fill="none" stroke="#f7c56b" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Line_43" data-name="Line 43" y2="13.794" transform="translate(4.169)" fill="none" stroke="#f7c56b" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Line_44" data-name="Line 44" y2="13.794" transform="translate(8.339)" fill="none" stroke="#f7c56b" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Line_45" data-name="Line 45" y2="13.794" transform="translate(12.508)" fill="none" stroke="#f7c56b" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Line_46" data-name="Line 46" y2="13.794" transform="translate(16.677)" fill="none" stroke="#f7c56b" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Line_47" data-name="Line 47" y2="13.794" transform="translate(20.847)" fill="none" stroke="#f7c56b" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Line_48" data-name="Line 48" y2="13.794" transform="translate(25.016)" fill="none" stroke="#f7c56b" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Line_49" data-name="Line 49" y2="13.794" transform="translate(29.185)" fill="none" stroke="#f7c56b" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

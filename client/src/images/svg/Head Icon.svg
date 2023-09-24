@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13" height="15" viewBox="0 0 13 15">
+  <g id="Head_Icon" data-name="Head Icon" transform="translate(-616 -4135)">
+    <g id="Ellipse_6" data-name="Ellipse 6" transform="translate(619 4135)" fill="none" stroke="#b81101" stroke-width="2">
+      <circle cx="3.5" cy="3.5" r="3.5" stroke="none"/>
+      <circle cx="3.5" cy="3.5" r="2.5" fill="none"/>
+    </g>
+    <g id="Rectangle_73" data-name="Rectangle 73" transform="translate(616 4143)" fill="none" stroke="#b81101" stroke-width="2">
+      <path d="M6.5,0h0A6.5,6.5,0,0,1,13,6.5V7a0,0,0,0,1,0,0H0A0,0,0,0,1,0,7V6.5A6.5,6.5,0,0,1,6.5,0Z" stroke="none"/>
+      <path d="M6,1H7a5,5,0,0,1,5,5V6a0,0,0,0,1,0,0H1A0,0,0,0,1,1,6V6A5,5,0,0,1,6,1Z" fill="none"/>
+    </g>
+  </g>
+</svg>

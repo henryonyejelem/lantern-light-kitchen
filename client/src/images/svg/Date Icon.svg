@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="15" viewBox="0 0 15 15">
+  <g id="Date_Icon" data-name="Date Icon" transform="translate(-896 -4187)">
+    <path id="Rectangle_75" data-name="Rectangle 75" d="M2,0H13a2,2,0,0,1,2,2V5a0,0,0,0,1,0,0H0A0,0,0,0,1,0,5V2A2,2,0,0,1,2,0Z" transform="translate(896 4187)" fill="#b81101"/>
+    <g id="Date_Icon-2" data-name="Date Icon" transform="translate(896 4187)" fill="none" stroke="#b81101" stroke-width="2">
+      <rect width="15" height="15" rx="2" stroke="none"/>
+      <rect x="1" y="1" width="13" height="13" rx="1" fill="none"/>
+    </g>
+  </g>
+</svg>

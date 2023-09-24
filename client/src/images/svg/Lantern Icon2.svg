@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="67.308" height="141.98" viewBox="0 0 67.308 141.98">
+  <g id="Icon_Asset" data-name="Icon Asset" transform="translate(-290.1 -6.53)">
+    <g id="Group_202" data-name="Group 202" transform="translate(291.35 6.53)">
+      <g id="Group_201" data-name="Group 201" transform="translate(0 17.995)">
+        <g id="Group_200" data-name="Group 200" transform="translate(0 7.884)">
+          <path id="Path_242" data-name="Path 242" d="M356.158,63.6a32.381,32.381,0,0,1-14.285,26.873h-36.23a32.408,32.408,0,0,1,0-53.745h36.23A32.381,32.381,0,0,1,356.158,63.6Z" transform="translate(-291.35 -36.73)" fill="none" stroke="#db3130" stroke-miterlimit="10" stroke-width="2.5"/>
+          <path id="Path_243" data-name="Path 243" d="M347.415,63.6c0,11.183-3.83,21.046-9.657,26.873h-24.49c-5.827-5.827-9.657-15.69-9.657-26.873s3.83-21.046,9.657-26.873h24.49C343.585,42.557,347.415,52.42,347.415,63.6Z" transform="translate(-293.104 -36.73)" fill="none" stroke="#db3130" stroke-miterlimit="10" stroke-width="2.5"/>
+          <path id="Path_244" data-name="Path 244" d="M336.529,63.6c0,11.183-1.542,21.046-3.89,26.873H322.75c-2.348-5.827-3.89-15.69-3.89-26.873s1.542-21.046,3.89-26.873h9.889C334.987,42.557,336.529,52.42,336.529,63.6Z" transform="translate(-295.286 -36.73)" fill="none" stroke="#db3130" stroke-miterlimit="10" stroke-width="2.5"/>
+        </g>
+        <rect id="Rectangle_58" data-name="Rectangle 58" width="36.23" height="7.892" transform="translate(14.293 61.629)" fill="none" stroke="#db3130" stroke-miterlimit="10" stroke-width="2.5"/>
+        <rect id="Rectangle_59" data-name="Rectangle 59" width="36.23" height="7.884" transform="translate(14.293)" fill="none" stroke="#db3130" stroke-miterlimit="10" stroke-width="2.5"/>
+      </g>
+      <line id="Line_40" data-name="Line 40" y2="27.215" transform="translate(32.408 87.507)" fill="none" stroke="#db3130" stroke-miterlimit="10" stroke-width="2.5"/>
+      <rect id="Rectangle_60" data-name="Rectangle 60" width="11.508" height="26.007" transform="translate(26.65 114.723)" fill="none" stroke="#db3130" stroke-miterlimit="10" stroke-width="2.5"/>
+      <line id="Line_41" data-name="Line 41" y1="17.995" transform="translate(32.408)" fill="none" stroke="#db3130" stroke-miterlimit="10" stroke-width="2.5"/>
+    </g>
+    <g id="Group_203" data-name="Group 203" transform="translate(308.008 94.046)">
+      <line id="Line_42" data-name="Line 42" y2="14.884" fill="none" stroke="#db3130" stroke-miterlimit="10" stroke-width="2.5"/>
+      <line id="Line_43" data-name="Line 43" y2="14.884" transform="translate(4.499)" fill="none" stroke="#db3130" stroke-miterlimit="10" stroke-width="2.5"/>
+      <line id="Line_44" data-name="Line 44" y2="14.884" transform="translate(8.998)" fill="none" stroke="#db3130" stroke-miterlimit="10" stroke-width="2.5"/>
+      <line id="Line_45" data-name="Line 45" y2="14.884" transform="translate(13.496)" fill="none" stroke="#db3130" stroke-miterlimit="10" stroke-width="2.5"/>
+      <line id="Line_46" data-name="Line 46" y2="14.884" transform="translate(17.995)" fill="none" stroke="#db3130" stroke-miterlimit="10" stroke-width="2.5"/>
+      <line id="Line_47" data-name="Line 47" y2="14.884" transform="translate(22.494)" fill="none" stroke="#db3130" stroke-miterlimit="10" stroke-width="2.5"/>
+      <line id="Line_48" data-name="Line 48" y2="14.884" transform="translate(26.993)" fill="none" stroke="#db3130" stroke-miterlimit="10" stroke-width="2.5"/>
+      <line id="Line_49" data-name="Line 49" y2="14.884" transform="translate(31.491)" fill="none" stroke="#db3130" stroke-miterlimit="10" stroke-width="2.5"/>
+    </g>
+  </g>
+</svg>

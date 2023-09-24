@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    .font-outline-2 {
+      -webkit-text-stroke: 0.04rem black;
+    }
+
+    .font-outline-3 {
+      -webkit-text-stroke: 0.04rem white;
+    }
+
+    .font-outline-4 {
+      -webkit-text-stroke: 0.01rem #b81101
+    }
+  }
+
+  html{
+    scroll-behavior: smooth;
+  }
